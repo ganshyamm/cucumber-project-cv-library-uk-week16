@@ -1,0 +1,38 @@
+2022-12-21 23:51:56 INFO  HomePage :60 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (cb6819717cf3e3df078a90d07635ced3)] -> xpath: //button[@id='save']]
+2022-12-21 23:51:56 INFO  HomePage :66 - Entering Job Title : Tester
+2022-12-21 23:51:57 INFO  HomePage :70 - Entering Location : Harrow
+2022-12-21 23:51:57 INFO  HomePage :75 - Selecting Distance : up to 5 miles
+2022-12-21 23:51:57 INFO  HomePage :79 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (cb6819717cf3e3df078a90d07635ced3)] -> id: toggle-hp-search]
+2022-12-21 23:51:57 INFO  HomePage :83 - Entering Min Salary : 30000
+2022-12-21 23:51:57 INFO  HomePage :87 - Entering Max Salary : 40000
+2022-12-21 23:52:52 INFO  HomePage :60 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (679e1997f233f8b9a6f7ee88dd93a49b)] -> xpath: //button[@id='save']]
+2022-12-21 23:52:52 INFO  HomePage :66 - Entering Job Title : Bookkeeper
+2022-12-21 23:52:53 INFO  HomePage :70 - Entering Location : London
+2022-12-21 23:52:53 INFO  HomePage :75 - Selecting Distance : up to 7 miles
+2022-12-21 23:52:53 INFO  HomePage :79 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (679e1997f233f8b9a6f7ee88dd93a49b)] -> id: toggle-hp-search]
+2022-12-21 23:52:53 INFO  HomePage :83 - Entering Min Salary : 40001
+2022-12-21 23:52:53 INFO  HomePage :87 - Entering Max Salary : 50000
+2022-12-21 23:53:39 INFO  HomePage :60 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (459c9bca632473d967b6d1a3c98101dc)] -> xpath: //button[@id='save']]
+2022-12-21 23:53:40 INFO  HomePage :66 - Entering Job Title : Warehouse Operative
+2022-12-21 23:53:40 INFO  HomePage :70 - Entering Location : Watford Hertfordshire
+2022-12-21 23:53:40 INFO  HomePage :75 - Selecting Distance : up to 5 miles
+2022-12-21 23:53:40 INFO  HomePage :79 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (459c9bca632473d967b6d1a3c98101dc)] -> id: toggle-hp-search]
+2022-12-21 23:53:40 INFO  HomePage :83 - Entering Min Salary : 35000
+2022-12-21 23:53:40 INFO  HomePage :87 - Entering Max Salary : 45000
+2022-12-21 23:54:26 INFO  HomePage :60 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (e0e2e038d9535cbe2f0a19720ff96c1b)] -> xpath: //button[@id='save']]
+2022-12-21 23:54:26 INFO  HomePage :66 - Entering Job Title : Teacher
+2022-12-21 23:54:26 INFO  HomePage :70 - Entering Location : Wembley
+2022-12-21 23:55:32 INFO  HomePage :60 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (51239b593bea89ee3fa3e22be4d2e336)] -> xpath: //button[@id='save']]
+2022-12-21 23:55:32 INFO  HomePage :66 - Entering Job Title : Teaching Assistant
+2022-12-21 23:55:33 INFO  HomePage :70 - Entering Location : Leeds
+2022-12-21 23:55:33 INFO  HomePage :75 - Selecting Distance : up to 10 miles
+2022-12-21 23:55:33 INFO  HomePage :79 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (51239b593bea89ee3fa3e22be4d2e336)] -> id: toggle-hp-search]
+2022-12-21 23:55:33 INFO  HomePage :83 - Entering Min Salary : 30000
+2022-12-21 23:55:33 INFO  HomePage :87 - Entering Max Salary : 40000
+2022-12-21 23:56:20 INFO  HomePage :60 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (43b8dbd3ca0b76e44b81d462863295d2)] -> xpath: //button[@id='save']]
+2022-12-21 23:56:20 INFO  HomePage :66 - Entering Job Title : Recruiter
+2022-12-21 23:56:20 INFO  HomePage :70 - Entering Location : London
+2022-12-21 23:56:20 INFO  HomePage :75 - Selecting Distance : up to 5 miles
+2022-12-21 23:56:21 INFO  HomePage :79 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (43b8dbd3ca0b76e44b81d462863295d2)] -> id: toggle-hp-search]
+2022-12-21 23:56:21 INFO  HomePage :83 - Entering Min Salary : 25000
+2022-12-21 23:56:21 INFO  HomePage :87 - Entering Max Salary : 38000
